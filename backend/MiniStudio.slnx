@@ -6,6 +6,7 @@
     <Project Path="src/MiniStudio.Infrastructure/MiniStudio.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/MiniStudio.Application.Tests/MiniStudio.Application.Tests.csproj" />
     <Project Path="tests/MiniStudio.Domain.Tests/MiniStudio.Domain.Tests.csproj" />
   </Folder>
 </Solution>

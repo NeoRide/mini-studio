@@ -52,7 +52,7 @@ dotnet run --project src/MiniStudio.Api
 
 - [x] Solution .NET en Clean Architecture
 - [x] Entité `Assistant` (factory, validation) et ses tests
-- [ ] Cas d'usage `CreateAssistant` et repository
+- [x] Cas d'usage `CreateAssistant` et repository
 - [ ] Endpoints REST et persistance (EF Core)
 - [ ] Service Python : agent LangGraph, RAG, évaluations
 - [ ] Front React + TanStack
