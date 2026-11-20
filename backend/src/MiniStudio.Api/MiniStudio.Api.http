@@ -1,0 +1,6 @@
+@MiniStudio.Api_HostAddress = http://localhost:5202
+
+GET {{MiniStudio.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

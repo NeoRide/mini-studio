@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MiniStudio.Api/MiniStudio.Api.csproj" />
+    <Project Path="src/MiniStudio.Application/MiniStudio.Application.csproj" />
+    <Project Path="src/MiniStudio.Domain/MiniStudio.Domain.csproj" />
+    <Project Path="src/MiniStudio.Infrastructure/MiniStudio.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MiniStudio.Domain.Tests/MiniStudio.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
