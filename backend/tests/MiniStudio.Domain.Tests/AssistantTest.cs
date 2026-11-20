@@ -1,3 +1,6 @@
+using System;
+using Xunit;
+
 namespace MiniStudio.Domain.Tests;
 
 public class AssistantTest
